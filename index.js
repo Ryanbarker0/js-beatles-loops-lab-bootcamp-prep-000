@@ -1,6 +1,6 @@
 function theBeatlesPlay(musicians, instruments) {
   var instrumentsPlayed = []
-  for (var i = 0, i < musicians.length, i++) {
+  for (var i = 0; i < musicians.length; i++) {
     console.log(instrumentsPlayed[musicians, instruments])
   }
 }
